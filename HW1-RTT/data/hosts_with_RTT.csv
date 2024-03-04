@@ -1,0 +1,336 @@
+Host Name,IP Address,Country,City,Latitude,Longitude,RTT
+debian.unnoba.edu.ar,200.14.116.3,Argentina,Junín,-34.5768,-60.947,130.55063800008307
+ftp.am.debian.org,93.187.162.100,Armenia,Yerevan,40.2047,44.5398,151.49292266672396
+mirrors.asnet.am,93.187.162.100,Armenia,Yerevan,40.2047,44.5398,150.44041200007996
+ftp.au.debian.org,103.84.224.37,Australia,Sydney,-33.8688,151.209,200.59911566674296
+debian.mirror.digitalpacific.com.au,101.0.120.90,Australia,Sydney,-33.8688,151.209,196.02914066672383
+mirror.aarnet.edu.au,202.158.214.106,Australia,Canberra,-35.2298,149.106,208.29163166672515
+mirror.amaze.com.au,122.252.2.42,Australia,Sydney,-34.0576,151.0067,196.28755133347417
+mirror.gsl.icu,103.1.215.35,Australia,Sydney,-33.8715,151.2006,197.70933199985544
+mirror.linux.org.au,103.84.224.37,Australia,Sydney,-33.8688,151.209,200.2481716666201
+mirror.overthewire.com.au,139.5.127.195,Australia,Brisbane,-27.4669,153.0397,209.06114066686618
+mirror.realcompute.io,114.141.111.226,Australia,Sydney,-33.8069,150.9845,213.25013766681877
+mirrors.xtom.au,146.19.0.8,Australia,Sydney,-33.8688,151.2092,195.83209333328946
+ftp.at.debian.org,213.129.232.18,Austria,Vienna,48.2098,16.3063,120.05080533314565
+debian.anexia.at,144.208.213.156,Austria,Vienna,48.1951,16.3483,108.6108953333375
+debian.lagis.at,83.164.133.195,Austria,Linz,48.3074,14.285,113.74554733341331
+debian.mur.at,89.106.208.14,Austria,Pernegg an der Mur,47.3563,15.3396,177.9698586666806
+debian.sil.at,213.129.232.18,Austria,Vienna,48.2098,16.3063,119.80247599998013
+ftp.tu-graz.ac.at,129.27.3.13,Austria,Graz,47.0949,15.5751,2000.0
+mirror.alwyzon.net,46.102.157.26,Austria,Vienna,48.277,16.4048,111.22642933332827
+ftp.by.debian.org,82.209.230.71,Belarus,Minsk,53.9007,27.5709,2000.0
+ftp.byfly.by,82.209.230.71,Belarus,Minsk,53.9007,27.5709,2000.0
+mirror.datacenter.by,178.124.134.106,Belarus,Minsk,53.9007,27.5709,2000.0
+ftp.be.debian.org,195.234.45.114,Belgium,Sint-Truiden,50.8072,5.16609,95.18911066667594
+ftp.belnet.be,193.190.198.27,Belgium,Brussels,50.8534,4.347,92.9266880001099
+mirror.as35701.net,195.234.45.114,Belgium,Sint-Truiden,50.8072,5.16609,95.08955133333075
+ftp.br.debian.org,200.236.31.3,Brazil,Curitiba,-25.4268,-49.2619,124.20558466677296
+alcateia.ufscar.br,200.136.207.1,Brazil,Botucatu,-22.8709,-48.5219,125.66707833351151
+debian.c3sl.ufpr.br,200.236.31.3,Brazil,Curitiba,-25.4268,-49.2619,123.03701166683823
+ftp.bg.debian.org,130.89.148.12,The Netherlands,Enschede,52.2385,6.8706,98.66485099989102
+debian.a1.bg,212.50.0.19,Bulgaria,Sofia,42.6951,23.325,2000.0
+debian.ludost.net,185.117.82.66,Bulgaria,Sofia,42.7077,23.3252,125.5245190000096
+debian.mnet.bg,84.43.191.5,Bulgaria,Varna,43.2002,27.9425,136.85282733346563
+debian.telecoms.bg,217.79.83.126,Bulgaria,Karvuna,43.4314,28.3287,134.3803493332416
+ftp.uni-sofia.bg,62.44.96.11,Bulgaria,Sofia,42.6951,23.325,125.81252100001925
+mirrors.netix.net,87.121.121.2,Bulgaria,Sofia,42.6507,23.3767,760.1620306668337
+mirror.telepoint.bg,79.124.67.90,Bulgaria,Sofia,42.6951,23.325,128.0932723332929
+ftp.ca.debian.org,64.50.236.52,United States,Chicago,41.8486,-87.6288,27.360722666647536
+debian.mirror.iweb.ca,192.175.120.168,Canada,Montreal,45.5017,-73.5673,30.902467666540662
+debian.mirror.rafal.ca,207.210.46.249,Canada,Hamilton,43.1962,-79.8457,35.91973633319867
+mirror01-pcl-ott1.accuris.ca,23.130.139.5,Canada,Kanata,45.3163,-75.9314,39.29892733337207
+mirror.csclub.uwaterloo.ca,129.97.134.71,Canada,Richmond Hill,43.8553,-79.3961,36.41708466663355
+mirror.dst.ca,208.89.84.55,Canada,Montreal,45.4986,-73.571,26.18010966671136
+mirror.estone.ca,99.199.64.121,Canada,Prince George,53.9127,-122.8708,84.13562400013082
+mirror.it.ubc.ca,137.82.116.21,Canada,Vancouver,49.2492,-123.1924,74.73248100010703
+ftp.cl.debian.org,138.204.231.113,Chile,Quilpué,-33.042,-71.4497,126.9626790000681
+debian.redlibre.cl,190.97.171.43,Chile,Las Condes,-33.4151,-70.5885,125.85364166655685
+mirror.hnd.cl,138.186.10.35,Chile,Santiago,-33.4521,-70.6536,104.28118800018638
+mirror.insacom.cl,138.204.231.113,Chile,Quilpué,-33.042,-71.4497,126.94587466648954
+mirror.ufro.cl,146.83.205.200,Chile,Temuco,-38.7315,-72.5992,2000.0
+ftp.cn.debian.org,45.125.0.6,Hong Kong,Hong Kong,22.3193,114.1693,197.95853399985694
+mirror.nju.edu.cn,210.28.130.3,China,Nanjing,32.0568,118.779,263.4990696665227
+mirror.nyist.edu.cn,59.69.128.21,China,Beijing,39.9042,116.407,252.23179400002965
+mirrors.163.com,60.191.80.15,China,Hangzhou,30.2994,120.1612,252.80858399992212
+mirrors.bfsu.edu.cn,39.155.141.16,China,Beijing,39.911,116.395,253.64778299990576
+mirrors.huaweicloud.com,124.70.125.167,China,Beijing,39.9042,116.4073,848.0510073333486
+mirrors.jlu.edu.cn,59.72.66.10,China,Shenyang,41.8057,123.431,246.94666266683876
+mirror.sjtu.edu.cn,111.186.58.212,China,Shanghai,31.2304,121.474,291.7944379999729
+mirrors.neusoft.edu.cn,219.216.128.25,China,Shenyang,41.8057,123.431,252.69737133354892
+mirrors.tuna.tsinghua.edu.cn,101.6.15.130,China,Haidian,40.0018,116.333,241.28116000004715
+mirrors.ustc.edu.cn,202.141.176.110,China,Hefei,31.822,117.281,246.7511629999232
+mirrors.zju.edu.cn,210.32.159.60,China,Haidian,40.0018,116.333,2000.0
+debianmirror.una.ac.cr,45.162.204.37,Costa Rica,Heredia,9.9983,-84.1171,81.15584400002263
+ftp.hr.debian.org,161.53.160.11,Croatia,Zagreb,45.7924,15.9694,119.92190433314438
+debian.carnet.hr,161.53.160.11,Croatia,Zagreb,45.7924,15.9694,118.28089500007384
+debian.iskon.hr,213.191.133.160,Croatia,Zagreb,45.8045,15.9987,119.24413999986427
+ftp.cz.debian.org,78.128.211.127,Czechia,Pardubice,50.0438,15.773,105.12381533332398
+debian.mirror.web4u.cz,81.91.81.11,Czechia,Prague,50.0883,14.4124,105.35217133307621
+debian.superhosting.cz,95.168.211.41,Czechia,Ceska Trebova,49.9021,16.4502,105.09776366658723
+ftp.cvut.cz,147.32.160.17,Czechia,Prague,50.1139,14.404,254.43278333326208
+ftp.debian.cz,78.128.211.127,Czechia,Pardubice,50.0438,15.773,105.1790759999373
+ftp.sh.cvut.cz,147.32.127.196,Czechia,Prague,50.0532,14.4139,104.87401399996088
+ftp.zcu.cz,147.228.57.10,Czechia,Pilsen,49.744,13.3805,106.21187366662828
+merlin.fit.vutbr.cz,147.229.176.19,Czechia,Brno střed,49.2015,16.6036,108.7115629999668
+mirror.dkm.cz,89.102.0.150,Czechia,Prague,50.0844,14.4998,105.79910366671659
+mirror.it4i.cz,195.113.250.60,Czechia,Prague,50.0883,14.4124,110.84781666674341
+mirror-prg.webglobe.com,62.109.128.228,Czechia,Prague,50.0781,14.474,106.21181100016959
+mirrors.nic.cz,217.31.202.63,Czechia,Prague,50.0755,14.4378,105.50956433326064
+ftp.dk.debian.org,130.225.254.116,Denmark,Hvidovre,55.6452,12.469,116.9136220000837
+mirror.asergo.com,82.103.189.20,Denmark,Hørsholm,55.8835,12.5049,102.28542666663998
+mirror.one.com,46.30.211.12,Denmark,Copenhagen,55.6802,12.5892,108.50614066657727
+mirrors.dotsrc.org,130.225.254.116,Denmark,Hvidovre,55.6452,12.469,117.17359600000539
+mirrors.rackhosting.com,77.247.64.34,Denmark,Taastrup,55.6624,12.3072,103.29908033327229
+mirrors.xtom.ee,185.37.252.138,Estonia,Tallinn,59.4369,24.7535,128.6825450001743
+ftp.fi.debian.org,194.71.11.173,Sweden,Umeå,63.8247,20.2559,119.36966233345932
+www.nic.funet.fi,193.166.3.3,Finland,Porvoo,60.3969,25.6542,119.98812033334616
+ftp.fr.debian.org,212.27.32.66,France,Paris,48.8566,2.35222,90.76772233326362
+debian.apt-mirror.de,46.105.185.24,Germany,Saarbrücken,49.2402,6.98519,93.76131300011063
+debian.obspm.fr,145.238.186.56,France,Paris,48.8359,2.33643,90.29632333310171
+debian.polytech-lille.fr,193.48.57.38,France,Lille,50.6292,3.05726,92.76923766659213
+debian.proxad.net,212.27.32.66,France,Paris,48.8566,2.35222,90.16798799999985
+debian.univ-tlse2.fr,193.55.175.161,France,Toulouse,43.6046,1.4451,105.41086566657516
+deb-mir1.naitways.net,149.62.156.14,France,Issy-les-Moulineaux,48.828,2.26578,2000.0
+ftp.ec-m.fr,147.94.19.20,France,Marseille,43.3017,5.38,99.91747899994152
+ftp.lip6.fr,132.227.74.17,France,Paris,48.846,2.35517,90.37221899992194
+ftp.rezopole.net,77.95.64.41,France,Lyon,45.748,4.85,95.84284666667979
+ftp.univ-pau.fr,194.167.156.234,France,Anglet,43.4831,-1.5216,107.64075100011421
+ftp.u-picardie.fr,193.49.184.24,France,Viols-le-Fort,43.7412,3.699,93.39212700009132
+ftp.u-strasbg.fr,130.79.200.5,France,Strasbourg,48.5855,7.7418,103.54509766663493
+miroir.univ-lorraine.fr,194.214.218.193,France,Maron,48.635,6.043,94.58261966680463
+mirror.gitoyen.net,80.67.163.159,France,Paris,48.8528,2.39188,89.33611533332926
+mirror.ibcp.fr,194.254.245.145,France,Lyon,45.748,4.85,99.49864866666758
+mirror.johnnybegood.fr,136.243.89.31,Germany,Cologne,50.9663,6.9564,102.92420800002826
+mirror.plusserver.com,62.138.222.4,Germany,Cologne,50.9411,6.9409,105.03613199989559
+mirrors.ircam.fr,129.102.1.37,France,Paris,48.8595,2.35145,89.94413999986743
+debian.grena.ge,217.147.227.66,Georgia,Tbilisi,41.6959,44.832,166.40359366662474
+ftp2.de.debian.org,137.226.34.46,Germany,Aachen,50.7479,6.0485,101.47682133356284
+ftp.de.debian.org,141.76.2.4,Germany,Dresden,51.0783,13.8051,110.73183400003472
+artfiles.org,212.72.164.211,Germany,Hamburg,53.5456,9.9615,104.04107966663408
+debian.charite.de,193.175.72.15,Germany,Berlin,52.5203,13.3849,107.04242433318238
+debian.inf.tu-dresden.de,141.76.2.4,Germany,Dresden,51.0783,13.8051,111.97677366650775
+debian.intergenia.de,85.25.128.62,France,Strasbourg,48.5855,7.7418,100.69099833329649
+debian.mirror.iphh.net,62.201.161.86,Germany,Hamburg,53.5504,10.0486,104.63239133317377
+debian.mirror.lrz.de,129.187.10.100,Germany,Munich,48.1663,11.5683,106.63991166681323
+debian.netcologne.de,194.8.197.22,Germany,Cologne,50.9697,7.005,100.0304536666287
+debian.tu-bs.de,134.169.192.5,Germany,Braunschweig,52.2784,10.5439,106.01380700002967
+de.mirrors.clouvider.net,91.199.118.172,Germany,Frankfurt am Main,50.0971,8.5952,97.93277866659385
+ftp.fau.de,131.188.12.211,Germany,Nuremberg,49.4527,11.0783,101.82672833343531
+ftp.gwdg.de,134.76.12.6,Germany,Göttingen,51.5441,9.9254,101.08763533344245
+ftp.halifax.rwth-aachen.de,137.226.34.46,Germany,Aachen,50.7479,6.0485,101.63739900008295
+ftp.hosteurope.de,80.237.136.138,Germany,Cologne,50.9129,7.0573,100.64007499992537
+ftp.plusline.net,82.98.66.54,Germany,Frankfurt am Main,50.1111,8.66105,97.51732133342254
+ftp-stud.hs-esslingen.de,129.143.116.10,Germany,Stuttgart,48.767,9.1827,101.85496400011591
+ftp.tu-chemnitz.de,134.109.228.1,Germany,Chemnitz,50.8191,12.9419,2000.0
+ftp.tu-clausthal.de,139.174.32.6,Germany,Clausthal-Zellerfeld,51.8111,10.3441,103.79141466652679
+ftp.uni-bayreuth.de,132.180.8.60,Germany,Bayreuth,49.9471,11.5749,2000.0
+ftp.uni-hannover.de,130.75.2.22,Germany,Hanover,52.3872,9.7054,2000.0
+ftp.uni-kl.de,131.246.123.4,Germany,Kaiserslautern,49.4346,7.7765,106.96577666658413
+ftp.uni-mainz.de,134.93.178.166,Germany,Mainz,49.9912,8.241,98.76524966663662
+ftp.wrz.de,217.243.224.144,Germany,Hanau,50.104,8.9408,2000.0
+mirror.23m.com,212.83.32.30,Germany,Münster,51.977,7.59709,98.70291099984267
+mirror.de.leaseweb.net,37.58.58.140,Germany,Frankfurt am Main,50.1103,8.7147,101.0574036666488
+mirror.dogado.de,185.3.234.216,Germany,Leipzig,51.3397,12.3731,104.64599566679074
+mirror.eu.oneandone.net,217.72.206.21,Germany,Karlsruhe,49.0069,8.40365,101.0885133332522
+mirror.informatik.tu-freiberg.de,139.20.16.130,Germany,Halsbrücke,50.9499,13.344,2000.0
+mirror.ipb.de,194.29.226.88,Germany,Berlin,52.5457,13.3651,105.78274600008324
+mirror.netzwerge.de,185.41.106.155,Germany,Hamburg,53.5514,10.0593,98.37852966666105
+mirrors.xtom.de,62.133.35.14,Germany,Düsseldorf,51.2277,6.7734,101.66560433329626
+mirror.united-gameserver.de,213.202.193.253,Germany,Düsseldorf,51.2673,6.81752,100.12141000000459
+mirror.wtnet.de,213.209.102.29,Germany,Hamburg,53.6647,10.0079,95.76456433327014
+packages.hs-regensburg.de,194.95.104.50,Germany,Deggendorf,48.8439,12.958,106.01810800001961
+pubmirror.plutex.de,109.69.69.17,Germany,Bremen,53.0793,8.80169,100.34894933323812
+debian.otenet.gr,212.205.74.89,Greece,Kifissia,38.0729,23.8101,132.5508316667765
+ftp.hk.debian.org,45.125.0.6,Hong Kong,Hong Kong,22.3193,114.1693,197.9360053333039
+mirror.xtom.com.hk,45.125.0.6,Hong Kong,Hong Kong,22.3193,114.1693,198.11258200009738
+ftp.bme.hu,152.66.115.246,Hungary,Budapest,47.5636,19.0947,111.4606213333597
+repo.jztkft.hu,45.67.159.244,Hungary,Mezőtúr,47.0,20.6333,111.43828033361085
+ftp.is.debian.org,78.129.164.123,United Kingdom,Maidenhead,51.5224,-0.7219,88.20139600008285
+is.mirror.flokinet.net,185.165.170.20,Iceland,Reykjavik,64.1514,-21.9388,125.20421266663107
+mirrors.iitd.ac.in,103.27.9.153,India,New Delhi,28.652,77.1663,235.28945166663107
+kartolo.sby.datautama.net.id,123.255.202.74,Indonesia,Jakarta,-6.2114,106.8446,2000.0
+kebo.pens.ac.id,202.9.85.18,Indonesia,Surabaya,-7.27585,112.794,2000.0
+mirror.poliwangi.ac.id,103.109.210.9,Indonesia,Banyuwangi,-8.2471,114.3878,243.79888499970548
+mirror.unair.ac.id,210.57.214.83,Indonesia,Surabaya,-7.2484,112.7419,240.17598600009174
+mr.heru.id,103.155.117.110,Indonesia,Bekasi,-6.26177,106.942,229.36794933336083
+debian.hostiran.ir,185.173.106.68,Iran,Tehran,35.6824,51.4158,2000.0
+debian.parspack.com,185.204.197.108,Iran,Tehran,35.6824,51.4158,2000.0
+debian.interhost.co.il,185.37.148.245,Israel,Tel Aviv,32.0803,34.7805,140.61475366679588
+ftp.it.debian.org,85.94.199.210,Italy,Milan,45.4722,9.1922,114.80836500019602
+debian.dynamica.it,151.0.128.28,Italy,Scandiano,44.6032,10.687,108.0231640000117
+debian.mirror.garr.it,90.147.160.72,Italy,Rome,41.8989,12.5122,124.07528833333951
+ftp.linux.it,85.94.199.210,Italy,Milan,45.4722,9.1922,114.43697599997904
+giano.com.dist.unige.it,130.251.19.2,Italy,Genoa,44.3915,8.945,118.34697933333398
+mirror.units.it,140.105.48.55,Italy,Trieste,45.6482,13.7747,116.77302099982019
+ftp.jp.debian.org,133.5.166.3,Japan,Hataeekikita,33.57,130.2308,2000.0
+debian-mirror.sakura.ne.jp,153.127.75.11,Japan,Osaka,34.704,135.495,177.56386966675564
+ftp.kddilabs.jp,192.26.91.193,Japan,Chiyoda,35.6916,139.768,2000.0
+ftp.nara.wide.ad.jp,203.178.137.175,Japan,Chiyoda,35.6916,139.768,168.15264266657928
+ftp.riken.jp,134.160.38.1,Japan,Wako,35.791,139.6197,161.07855166668136
+mirrors.xtom.jp,45.14.106.5,Japan,Osaka,34.6946,135.5021,165.08988733312435
+repo.jing.rocks,106.178.112.231,Japan,Chiyoda,35.6906,139.77,161.59448266656304
+mirror.hoster.kz,194.146.42.42,Kazakhstan,Almaty,43.2433,76.8646,193.7458793333159
+mirror.ps.kz,195.210.46.141,Kazakhstan,Almaty,43.2636,76.9404,193.49117266665417
+debian.mirror.ac.ke,41.89.1.207,Kenya,Nairobi,-1.28016,36.8159,2000.0
+debian.mirror.liquidtelecom.com,197.155.77.1,Kenya,Nairobi,-1.2841,36.8155,263.0942953334549
+ftp.kr.debian.org,103.22.220.133,South Korea,Gyeongsan-si,35.8826,128.73,195.83981866662725
+ftp.kaist.ac.kr,103.22.220.133,South Korea,Gyeongsan-si,35.8826,128.73,195.54016566674667
+mirror.siwoo.org,218.159.243.120,South Korea,Seo-gu,35.1366,126.8656,2000.0
+debian.koyanet.lv,89.111.47.130,Latvia,Riga,56.8828,24.2208,118.68741666664089
+mirror.cloudhosting.lv,91.220.43.19,Latvia,Riga,56.9706,24.159,119.12886266660887
+ftp.lt.debian.org,158.129.159.169,Lithuania,Vilnius,54.6912,25.2816,2000.0
+debian.balt.net,195.14.170.170,Lithuania,Vilnius,54.6912,25.2816,118.97481999994852
+debian.mirror.vu.lt,158.129.159.169,Lithuania,Vilnius,54.6912,25.2816,2000.0
+mirror.litnet.lt,83.171.20.4,Lithuania,Klaipėda,55.7158,21.111,121.20983400018304
+mirror.vpsnet.com,91.211.244.15,Lithuania,Vilnius,54.6912,25.2816,118.82145800003248
+debian.mirror.root.lu,195.24.74.198,Luxembourg,Bissen,49.787,6.09007,2000.0
+mirror-mk.interspace.com,185.232.120.23,North Macedonia,Skopje,42.005,21.4408,129.09035666658988
+mirror.onevip.mk,146.255.69.2,North Macedonia,Skopje,42.005,21.4408,136.87050733324213
+ftp.md.debian.org,178.17.160.48,Moldova,Chisinau,47.0042,28.8574,135.4039713334411
+mirror.as43289.net,178.17.160.48,Moldova,Chisinau,47.0042,28.8574,134.92671533337366
+ftp.nl.debian.org,130.89.149.21,The Netherlands,Enschede,52.2385,6.8706,98.87617733314376
+debian.snt.utwente.nl,130.89.149.21,The Netherlands,Enschede,52.2385,6.8706,98.74771066658165
+mirror.duocast.net,83.137.149.3,The Netherlands,Eelde,53.1374,6.5603,99.49590500006404
+mirror.i3d.net,104.153.87.214,United States,Ashburn,39.018,-77.539,19.00772466675941
+mirror.nl.datapacket.com,185.229.191.144,The Netherlands,Amsterdam,52.3385,4.9168,95.61631066662812
+mirror.nl.leaseweb.net,5.79.108.33,The Netherlands,Amsterdam,52.3667,4.89454,98.59515566661987
+mirror.seedvps.com,185.248.160.60,The Netherlands,Amsterdam,52.3702,4.89517,95.57026600001943
+mirrors.hostiserver.com,45.84.31.11,The Netherlands,Amsterdam,52.352,4.9392,95.52542499992948
+mirrors.xtom.nl,78.142.193.130,Netherlands,Amsterdam,52.3675,4.9041,97.23752466667672
+nl.mirrors.clouvider.net,194.127.172.131,The Netherlands,Amsterdam,52.3716,4.8883,96.84859200009062
+ftp.nc.debian.org,103.2.186.80,New Caledonia,Noumea,-22.2692,166.455,218.17573466660178
+debian.nautile.nc,103.2.186.80,New Caledonia,Noumea,-22.2692,166.455,217.83756566674128
+mirror.lagoon.nc,202.22.159.9,New Caledonia,Noumea,-22.2665,166.4742,219.72044800016496
+ftp.nz.debian.org,163.7.134.112,New Zealand,Wellington,-41.2971,174.7932,215.08536733351016
+linux.purple-cat.net,182.54.165.104,New Zealand,Dunedin,-45.8825,170.5162,241.81219966688636
+mirror.fsmg.org.nz,163.7.134.112,New Zealand,Wellington,-41.2971,174.7932,214.89316566642933
+ftp.no.debian.org,129.240.118.47,Norway,Oslo,59.955,10.859,112.53576766648621
+ftp.uio.no,129.240.118.47,Norway,Oslo,59.955,10.859,112.31799266655192
+ftp.pl.debian.org,153.19.251.221,Poland,Gdansk,54.367,18.6297,112.19129333327753
+debian.inhost.pro,109.196.112.157,Poland,Dębica,50.045,21.3996,113.56564466662651
+ftp.agh.edu.pl,149.156.96.11,Poland,Krakow,50.0585,19.9342,118.7673363331972
+ftp.icm.edu.pl,193.219.28.2,Poland,Warsaw,52.2397,21.0173,108.70063766681899
+ftp.psnc.pl,150.254.173.17,Poland,Poznan,52.4312,16.9115,115.45048199999049
+ftp.task.gda.pl,153.19.251.222,Poland,Gdansk,54.367,18.6297,112.10970833326428
+ftp.pt.debian.org,130.89.148.12,The Netherlands,Enschede,52.2385,6.8706,98.92057333339228
+debian.uevora.pt,193.136.216.34,Portugal,Lisbon,38.731,-9.1373,2000.0
+ftp.eq.uc.pt,193.137.214.36,Portugal,Coimbra,40.2057,-8.4213,2000.0
+ftp.rnl.tecnico.ulisboa.pt,193.136.164.6,Portugal,Agualva,38.7677,-9.3006,114.82714366669218
+mirrors.ptisp.pt,130.185.80.122,Portugal,Constância,39.482,-8.3293,113.48418699996425
+mirrors.up.pt,193.137.29.15,Portugal,Porto,41.1691,-8.6793,121.01025166672723
+debian.mithril.re,165.169.21.12,Reunion,Le Port,-20.9526,55.3022,289.4147096667439
+depot-debian.univ-reunion.fr,195.220.150.52,France,Paris,48.8566,2.35222,2000.0
+mirror.linux.ro,81.196.9.142,Romania,Bucharest,44.4152,26.166,126.77094833316005
+mirrors.hostico.ro,188.241.222.52,Romania,Sighetu Marmaţiei,47.9307,23.8892,123.795556999994
+mirrors.nav.ro,5.154.224.26,Romania,Bucharest,44.4817,26.1206,126.59276100005931
+mirrors.nxthost.com,5.83.47.15,Romania,Bucharest,44.4268,26.1025,132.39042733327247
+ro.mirror.flokinet.net,185.100.87.86,Romania,Bucharest,44.4031,26.0417,129.375409666712
+ftp.ru.debian.org,85.143.112.112,Russia,Moscow,55.7483,37.6171,123.10919433336191
+ftp.psn.ru,217.26.17.81,Russia,Moscow,55.7558,37.6173,126.06171966672264
+mirror.corbina.net,195.14.50.21,Russia,Moscow,55.7558,37.6173,129.68717433341226
+mirror.docker.ru,185.253.23.31,Russia,St Petersburg,60.0073,30.3729,123.96235466682508
+mirror.hyperdedic.ru,45.157.140.21,Russia,Moscow,55.7483,37.6171,124.44563999997627
+mirror.mephi.ru,85.143.112.112,Russia,Moscow,55.7483,37.6171,123.02395766649472
+mirrors.powernet.com.ru,31.128.159.4,Russia,Volzhsky,48.7927,44.7749,150.11082299997724
+mirror.coganng.com,116.15.69.197,Singapore,Singapore,1.29229,103.808,219.2462446667681
+mirror.sg.gs,203.175.175.208,Singapore,Singapore,1.35208,103.82,229.16764733327
+ossmirror.mycloud.services,202.79.180.254,Singapore,Singapore,1.28324,103.852,218.93152233345367
+ftp.sk.debian.org,195.80.174.186,Slovakia,Banská Bystrica,48.804,19.1363,110.0808663333434
+deb.bbxnet.sk,91.221.4.48,Slovakia,Banská Bystrica,48.7498,19.1596,114.71968700016077
+ftp.antik.sk,88.212.10.12,Slovakia,Pribylina,49.097,19.8047,115.43063566674998
+ftp.debian.sk,195.80.174.186,Slovakia,Banská Bystrica,48.804,19.1363,110.14884399992297
+ftp.si.debian.org,213.129.232.18,Austria,Vienna,48.2098,16.3063,120.10530966669346
+debian.saix.net,196.43.2.109,South Africa,Centurion,-25.8782,28.1874,2000.0
+ftp.is.co.za,196.4.160.12,South Africa,Cape Town,-33.9249,18.4241,237.6684020000539
+ftp.es.debian.org,130.89.148.12,The Netherlands,Enschede,52.2385,6.8706,99.02220866661082
+debian.grn.cat,80.64.47.13,Spain,Blanes,41.6717,2.794,99.53043266659733
+debian.redimadrid.es,193.145.15.20,Spain,San Cristóbal de La Laguna,28.4666,-16.3027,97.18439766659988
+debian.redparra.com,37.134.214.51,Spain,Madrid,40.3765,-3.7592,98.64412066675261
+debian.uvigo.es,193.146.32.81,Spain,Vigo,42.2393,-8.7224,116.03850133330222
+ftp.caliu.cat,147.83.91.172,Spain,Barcelona,41.3994,2.0995,115.46931533333311
+ftp.cica.es,150.214.5.134,Spain,Málaga,36.7125,-4.407,106.56565666658935
+ftp.udc.es,193.144.61.75,Spain,Culleredo,43.3199,-8.3689,132.74721099999928
+repo.ifca.es,193.146.75.19,Spain,Santander,43.4611,-3.8021,112.81893966649174
+softlibre.unizar.es,155.210.4.101,Spain,Zaragoza,41.6432,-0.9006,2000.0
+ulises.hostalia.com,82.194.78.250,Spain,Alcobendas,40.5264,-3.66113,97.62967599999683
+ftp.se.debian.org,194.71.11.163,Sweden,Umeå,63.8258,20.263,120.02045033341346
+debian.lth.se,130.235.34.30,Sweden,Teckomatorp,55.8638,13.0868,111.8052173334642
+debian.mirror.su.se,193.11.30.180,Sweden,Uppsala,59.8509,17.63,112.171524333462
+ftp.acc.umu.se,194.71.11.173,Sweden,Umeå,63.8247,20.2559,119.37909300013416
+ftpmirror1.infania.net,194.132.225.213,Sweden,Kinna,57.5067,12.7021,2000.0
+mirrors.glesys.net,109.74.12.226,Sweden,Falkenberg,56.9066,12.503,113.3792610000152
+mirror.zetup.net,109.205.222.4,Sweden,Gothenburg,57.7076,11.9296,111.799792333386
+ftp.ch.debian.org,129.132.53.171,Switzerland,Zurich,47.3604,8.5388,104.21697533335343
+debian.ethz.ch,129.132.53.171,Switzerland,Zurich,47.3604,8.5388,103.94475733331394
+mirror1.infomaniak.com,83.166.143.42,Switzerland,Onex,46.1877,6.0981,107.52007333348956
+mirror2.infomaniak.com,83.166.143.43,Switzerland,Onex,46.1877,6.0981,107.16642333333463
+mirror.init7.net,109.202.202.202,Switzerland,Sulz,47.5421,8.7933,104.07617500019721
+mirror.iway.ch,212.25.8.232,Switzerland,Zurich,47.4197,8.5139,103.04285900004591
+mirror.metanet.ch,80.74.152.24,Switzerland,Zurich,47.3875,8.52269,103.00736199997118
+mirror.sinavps.ch,185.73.240.250,Switzerland,Zurich,47.3878,8.52029,103.59008500002649
+pkg.adfinis.com,95.128.34.165,Switzerland,Bern,46.948,7.44745,2000.0
+ftp.tw.debian.org,140.110.240.80,Taiwan,Hsinchu,24.8065,120.9706,2000.0
+debian.csie.ntu.edu.tw,140.112.30.75,Taiwan,Taipei,25.0504,121.5324,189.35344900000928
+debian.cs.nycu.edu.tw,140.113.17.5,Taiwan,Hsinchu,24.8065,120.9706,190.9612729997813
+ftp.tku.edu.tw,163.13.240.201,Taiwan,New Taipei,24.9466,121.586,190.04886799984888
+opensource.nchc.org.tw,140.110.240.80,Taiwan,Hsinchu,24.8065,120.9706,2000.0
+tw1.mirror.blendbyte.net,125.228.189.120,Taiwan,Taipei,25.0504,121.5324,190.57150733336434
+ftp.debianclub.org,124.109.2.168,Thailand,Bangkok Yai,13.7087,100.481,246.97828699981983
+mirror.applebred.net,103.246.16.176,Thailand,Suan Luang,13.7164,100.653,253.6239679999805
+mirror.kku.ac.th,202.28.95.174,Thailand,Ratchathewi,13.7569,100.536,2000.0
+ftp.tr.debian.org,193.140.98.183,Turkey,Ulus,41.5837,32.6398,2000.0
+debian.gnu.gen.tr,139.179.10.9,Türkiye,Cankaya,39.8959,32.863,2000.0
+ftp.linux.org.tr,193.140.98.183,Turkey,Ulus,41.5837,32.6398,2000.0
+debian.netforce.hosting,141.98.108.40,Ukraine,Kyiv,50.4501,30.5234,124.27264566683031
+debian.volia.net,77.120.62.8,Ukraine,Kyiv,50.514,30.6001,123.21507433337804
+fastmirror.pp.ua,93.126.105.202,Ukraine,Kyiv,50.458,30.5303,123.19145733348098
+mirror.mirohost.net,89.184.64.137,Ukraine,Kyiv,50.458,30.5303,122.95077966655299
+mirror.ukrnames.com,91.231.87.7,Ukraine,Kharkiv,49.9935,36.2304,128.1143913335351
+ftp.uk.debian.org,78.129.164.123,United Kingdom,Maidenhead,51.5224,-0.7219,88.56385633331836
+debian.mirrors.uk2.net,83.170.94.3,United Kingdom,London,51.5049,-0.0195006,2000.0
+debian.mirror.uk.sargasso.net,78.158.65.70,United Kingdom,London,51.5072,-0.127586,91.02387633326241
+free.hands.com,78.129.164.123,United Kingdom,Maidenhead,51.5224,-0.7219,88.39000466681075
+ftp.ticklers.org,90.207.225.196,United Kingdom,London,51.5074,-0.1196,87.32450200007709
+mirror.cov.ukservers.com,94.229.65.150,United Kingdom,London,51.5088,-0.093,91.06854266656228
+mirror.lchost.net,213.230.211.73,United Kingdom,Enfield,51.6187,-0.1154,87.56605433321359
+mirror.mythic-beasts.com,93.93.131.18,United Kingdom,Cambridge,52.21,0.14055,88.70788899988231
+mirror.ox.ac.uk,163.1.160.163,United Kingdom,Oxford,51.7665,-1.2829,91.2655936669277
+mirror.positive-internet.com,80.87.134.17,United Kingdom,London,51.5074,-0.1196,93.29987099999926
+mirrors.coreix.net,85.13.241.50,United Kingdom,Enfield,51.6529,-0.0777383,87.3785353336037
+mirrorservice.org,212.219.56.184,United Kingdom,Canterbury,51.3005,1.1233,89.41397233320458
+mirror.vinehost.net,81.179.123.56,United Kingdom,Portsmouth,50.7851,-1.0389,92.55122133329981
+ukdebian.mirror.anlx.net,81.91.100.175,United Kingdom,Marlborough,51.4206,-1.71428,97.05726433336774
+uk.mirrors.clouvider.net,5.180.211.190,United Kingdom,Canary Wharf,51.5064,-0.02,87.71109466685327
+ftp.us.debian.org,208.80.154.139,United States,San Francisco,37.7892,-122.402,12.242016333251135
+atl.mirrors.clouvider.net,92.119.16.152,United States,Atlanta,33.7485,-84.3871,10.736558333216331
+debian-archive.trafficmanager.net,40.76.167.129,United States,Boydton,36.677696,-78.37471,19.169500666672928
+debian.cc.lehigh.edu,128.180.2.105,United States,Bethlehem,40.5995,-75.3763,2000.0
+debian.csail.mit.edu,128.30.3.141,United States,Cambridge,42.3649,-71.0987,26.8398559999999
+debian.cs.binghamton.edu,128.226.118.14,United States,Binghamton,42.1126,-75.9305,2000.0
+debian.mirror.constant.com,108.61.5.92,United States,Piscataway,40.5511,-74.4606,20.542720666677877
+debian.osuosl.org,64.50.236.52,United States,Chicago,41.8486,-87.6288,27.379195000018324
+debian.uchicago.edu,128.135.10.29,United States,Merrillville,41.4934,-87.3548,31.47986600000271
+la.mirrors.clouvider.net,77.247.126.176,United States,Los Angeles,34.0544,-118.244,59.58041533328166
+mirror.0x626b.com,173.208.198.91,United States,Kansas City,39.1374,-94.5786,39.305791333238936
+mirror.clarkson.edu,128.153.145.19,United States,Potsdam,44.6639,-74.9842,31.14573100007571
+mirror.cogentco.com,204.157.3.70,United States,Washington,38.894,-77.0365,27.243873333494168
+mirror.dal.nexril.net,161.129.154.250,United States,Dallas,32.8137,-96.8704,38.51592099999834
+mirror.keystealth.org,184.105.240.111,United States,Livermore,37.6864,-121.7654,70.759781999944
+mirror.rustytel.net,76.252.192.212,United States,Taylor,42.2316,-83.2659,35.45531633335486
+mirrors.accretive-networks.net,216.127.35.166,United States,Seattle,47.6153,-122.335,2000.0
+mirror.siena.edu,199.223.246.113,United States,Latham,42.7171,-73.7535,2000.0
+mirrors.lug.mtu.edu,141.219.188.21,United States,Hancock,47.1328,-88.567,36.49211000007805
+mirrors.namecheap.com,162.255.118.133,United States,Los Angeles,34.0356,-118.442,68.65028466654621
+mirrors.ocf.berkeley.edu,169.229.200.70,United States,Berkeley,37.8736,-122.257,70.20271599973664
+mirror.steadfast.net,208.100.4.53,United States,Chicago,41.8726,-87.6333,34.181705666772665
+mirrors.vcea.wsu.edu,69.166.55.80,United States,Pullman,46.7311,-117.16,80.7482353332792
+mirrors.wikimedia.org,208.80.154.139,United States,San Francisco,37.7892,-122.402,12.04329466645504
+mirrors.xtom.com,142.147.88.7,United States,San Jose,37.3382,-121.8863,70.10052933355837
+mirror.us.leaseweb.net,207.244.94.80,United States,Manassas,38.7514,-77.5251,13.31560000016907
+mirror.us.oneandone.net,74.208.240.17,United States,Philadelphia,39.9557,-75.1698,37.74184400011412
+nyc.mirrors.clouvider.net,94.154.159.241,United States,New York,40.7157,-74.0,18.735664333235036
+plug-mirror.rcac.purdue.edu,128.211.151.252,United States,West Lafayette,40.4444,-86.9256,29.99129433313404
+repo.ialab.dsu.edu,138.247.115.248,United States,Madison,44.01,-97.1146,2000.0
+debian.repo.cure.edu.uy,164.73.233.2,Uruguay,Montevideo,-34.9087,-56.1539,142.75458766648322
+mirror.bizflycloud.vn,103.107.181.186,Vietnam,Thanh Xuân District,20.9995,105.807,243.85049466657924
+mirrors.bkns.vn,103.121.88.254,Vietnam,Hanoi,21.0292,105.8526,218.11333366683053
