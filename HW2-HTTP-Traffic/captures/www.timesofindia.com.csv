@@ -1,0 +1,11 @@
+time,frame_number,protocol,source,destination,length,ttl,source_port,destination_port,tcp_flags,dns_query,dns_response,http_request_method,http_host,http_user_agent,ssl_version,tls_handshake_type
+1711166250.290917,1,DNS,,,139,,53,53512,,e180620.dscj.akamaiedge.net,,,,,,
+1711166250.290926,2,DNS,,,163,,53,64704,,e180620.dscj.akamaiedge.net,,,,,,
+1711166250.291621,3,TCP,,,98,,52528,443,194,,,,,,,
+1711166250.299145,4,TCP,,,94,,443,52528,82,,,,,,,
+1711166250.299274,5,TCP,,,86,,52528,443,16,,,,,,,
+1711166250.303833,6,TLS,,,603,,52528,443,24,,,,,,,1
+1711166250.313351,7,TCP,,,86,,443,52528,16,,,,,,,
+1711166250.31336,8,TLS,,,1494,,443,52528,16,,,,,,,2
+1711166250.313361,9,TCP,,,1494,,443,52528,24,,,,,,,
+1711166250.313363,10,TLS,,,607,,443,52528,24,,,,,,,
