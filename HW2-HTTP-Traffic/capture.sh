@@ -40,7 +40,7 @@ capture_traffic() {
     host_ip=$(get_ip_address "$url")
 
     # Run tcpdump command with provided inputs and save the PID
-    tcpdump -i en0 -nn -X "(tcp or udp) and host $host_ip" -w "$output_file.pcap" &
+    tcpdump -i eth0 -nn -X "(tcp or udp) and host $host_ip" -w "$output_file.pcap" &
     cpdump_pid=$!
     # Wait for tcpdump to start
     sleep 2
