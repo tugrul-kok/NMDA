@@ -1,14 +1,15 @@
 #!/bin/bash
 
 # Check if all arguments are provided
-if [ "$#" -lt 3 ]; then
-    echo "Usage: $0 <output_directory> <output_file_prefix> <url1> [<url2> ... <urlN>]"
+if [ "$#" -lt 4 ]; then
+    echo "Usage: $0 <output_directory> <output_file_prefix> <num_curls> <url1> [<url2> ... <urlN>]"
     exit 1
 fi
 
 output_directory="$1"
 output_file_prefix="$2"
-shift 2  # Remove the first two arguments, leaving only the URLs
+num_curls="$3"
+shift 3  # Remove the first three arguments, leaving only the URLs
 
 # Function to get IP address from URL
 get_ip_address() {
@@ -31,6 +32,7 @@ def get_ip_address(url):
 print(get_ip_address("$1"))
 END
 }
+
 # Function to capture traffic for a given URL
 capture_traffic() {
     url="$1"
@@ -45,14 +47,15 @@ capture_traffic() {
     # Wait for tcpdump to start
     sleep 2
 
-    # Perform curl operation 10 times
-    for i in {1..10}; do
+    # Perform curl operation specified number of times
+    for i in $(seq "$num_curls"); do
         curl -s "$url" > /dev/null
         sleep 1
     done
 
     # Kill the tcpdump process
 }
+
 # Iterate over each URL and capture traffic
 for url in "$@"; do
     capture_traffic "$url"
